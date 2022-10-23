@@ -7,7 +7,7 @@
 ### https://mustansir.dev/posts/building-a-subdomain-service
 
 ## Features.
-* Serve an app pikachu.domain.com, charmander.domain.com, *.domain.com dynamically based on the slug before domain.com.
+* Serve a pokemon using pikachu.domain.com, charmander.domain.com, *.domain.com dynamically based on the slug before domain.com.
 * RESTful service built using [Nest.js](https://nestjs.com) and [TypeScript](https://www.typescriptlang.org).
 * Production ready while following the patterns of dependency injection and single responsibilty principle.
 
