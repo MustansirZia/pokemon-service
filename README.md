@@ -2,7 +2,7 @@
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
-> A subdomain service that can serve different pokemons based on the subdomain (pokemon slug) from which it was accessed.
+> A subdomain service that can serve different pokemons based on the subdomain (pokemon slug) from which it was accessed from.
 
 ### https://mustansir.dev/posts/building-a-subdomain-service
 
