@@ -4,7 +4,7 @@
 
 > A subdomain service that can serve different pokemons based on the subdomain (pokemon slug) from which it was accessed.
 
-### https://institutions-lookup-frontend.herokuapp.com
+### https://mustansir.dev/posts/building-a-subdomain-service
 
 ## Features.
 * Serve an app pikachu.domain.com, charmander.domain.com, *.domain.com dynamically based on the slug before domain.com.
@@ -13,7 +13,7 @@
 
 ## Internet Footprint.
 * This repository is actually is related to an article that I wrote on my blog. Here's the link for that article.
-#### https://mustansir.dev/posts/building-a-subdomain-service/
+#### https://mustansir.dev/posts/building-a-subdomain-service
 
 ## Resources.
 * PokeAPI. (https://pokeapi.co)
